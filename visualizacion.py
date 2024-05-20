@@ -3,7 +3,6 @@ from dash import dcc, html
 from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
-from dash_html_export import export
 
 # Función para crear gráficos de barras combinados para una comunidad autónoma específica
 def create_combined_bar_chart(data, comunidad, gender_filter, year_filter):
@@ -190,5 +189,3 @@ def update_slope_chart(selected_name):
 if __name__ == '__main__':
     app.run_server(debug=True)
 
-# Generar el archivo HTML
-export(app, 'nombres_recien_nacidos.html')
