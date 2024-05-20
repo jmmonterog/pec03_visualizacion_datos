@@ -7,6 +7,12 @@ Esta visualización interactiva analiza la evolución de los nombres más popula
 ### Origen de los Datos
 Los datos utilizados en esta visualización provienen de registros oficiales de nombres de recién nacidos en España para los años 2002 y 2022. Estos datos fueron recolectados y proporcionados por el Instituto Nacional de Estadística (INE) y otras fuentes oficiales de las comunidades autónomas.
 
+![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/7ee4b4d0-86f7-4e6d-ac0d-2b3fa2e18f3e)
+
+https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177009&menu=resultados&secc=1254736195498&idp=1254734710990#_tabs-1254736195498
+![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/010c97f2-d959-49ab-aebe-24fec0a8b7fb)
+
+
 ### Licencia de los Datos
 Los datos están bajo una licencia de uso público, lo que permite su acceso y uso para fines educativos y no comerciales. Es importante consultar la página oficial del INE y las fuentes de datos regionales para obtener detalles específicos sobre las licencias y condiciones de uso.
 
