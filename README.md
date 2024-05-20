@@ -1,17 +1,15 @@
 # Análisis de Nombres de Recién Nacidos en España (2002-2022)
 
+## Autor
+**Jesús Manuel Montero Garrido**  
+Correo: [jmonterogarr@uoc.edu](mailto:jmonterogarr@uoc.edu)
+
 ## Descripción
 Esta visualización interactiva analiza la evolución de los nombres más populares en España desde 2002 hasta 2022. La visualización incluye comparaciones nacionales y regionales, mostrando cómo las preferencias de nombres reflejan cambios culturales y sociales. Los gráficos de barras, líneas y pendientes permiten explorar las tendencias de nombres por género, año y comunidad autónoma.
 
 ## a) Origen y Licencia de los Datos
 ### Origen de los Datos
 Los datos utilizados en esta visualización provienen de registros oficiales de nombres de recién nacidos en España para los años 2002 y 2022. Estos datos fueron recolectados y proporcionados por el Instituto Nacional de Estadística (INE) y otras fuentes oficiales de las comunidades autónomas.
-
-![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/7ee4b4d0-86f7-4e6d-ac0d-2b3fa2e18f3e)
-
-https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177009&menu=resultados&secc=1254736195498&idp=1254734710990#_tabs-1254736195498
-![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/99cd7c21-5ebc-43fd-bb3a-71060f19fc60)
-
 
 ### Licencia de los Datos
 Los datos están bajo una licencia de uso público, lo que permite su acceso y uso para fines educativos y no comerciales. Es importante consultar la página oficial del INE y las fuentes de datos regionales para obtener detalles específicos sobre las licencias y condiciones de uso.
@@ -31,24 +29,10 @@ La visualización fue creada utilizando Dash, una biblioteca de Python para la c
 La visualización creada está estructurada en varias secciones interactivas, cada una enfocada en un aspecto diferente del análisis de nombres:
 
 1. **Introducción**: Proporciona un contexto sobre la importancia de los nombres y el objetivo de la visualización.
-![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/d2745837-131a-42d3-81ed-132456064ba5)
-
-2. **Sección 1: Comparación Nacional**: Incluye gráficos de barras que muestran los 10 nombres más populares en España en 2002 y 2022.
-
-   ![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/f254e45e-865d-45c9-b0ec-136d53c998e7)
-
-3. **Sección 2: Análisis Regional**: Presenta gráficos de barras regionales con filtros para seleccionar la comunidad autónoma, género y año. Un dropdown permite explorar cómo varían los nombres entre diferentes regiones.
-
-   ![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/08d4cf87-2093-4106-afbf-4e43c4478bfa)
-
-4. **Sección 3: Evolución Temporal**: Ofrece un gráfico de pendiente (slope chart) para visualizar la evolución de los nombres a lo largo del tiempo. Un selector permite elegir nombres específicos para un análisis detallado.
-
-   ![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/4c0c5fdf-ad71-4aea-a89c-da3e52f96f73)
-
-5. **Sección 4: Conclusión**: Resume las tendencias principales y reflexiona sobre los cambios culturales observados.
-
-   ![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/ad01e9ed-2c90-454d-8ff6-2bd04e9c4c25)
-
+2. **Comparación Nacional**: Incluye gráficos de barras que muestran los 10 nombres más populares en España en 2002 y 2022.
+3. **Análisis Regional**: Presenta gráficos de barras regionales con filtros para seleccionar la comunidad autónoma, género y año. Un dropdown permite explorar cómo varían los nombres entre diferentes regiones.
+4. **Evolución Temporal**: Ofrece un gráfico de pendiente (slope chart) para visualizar la evolución de los nombres a lo largo del tiempo. Un selector permite elegir nombres específicos para un análisis detallado.
+5. **Conclusión**: Resume las tendencias principales y reflexiona sobre los cambios culturales observados.
 
 ## d) Análisis de los Elementos Visuales Usados
 ### Tipo de Gráficos
@@ -75,5 +59,11 @@ La visualización muestra cómo las preferencias de nombres en España han cambi
 
 ### Formas de Captar la Atención del Usuario
 - **Interactividad**: Permite a los usuarios explorar los datos de manera dinámica, filtrando y seleccionando diferentes categorías para un análisis personalizado.
-- **Elementos Visuales Atractivos**: Uso de colores vibrantes y gráficos interactivos para hacer la visualización visualmente atractiva y
+- **Elementos Visuales Atractivos**: Uso de colores vibrantes y gráficos interactivos para hacer la visualización visualmente atractiva y fácil de entender.
+- **Diseño Intuitivo**: La estructura clara y organizada, con secciones separadas y herramientas de navegación intuitivas, facilita la exploración y comprensión de la información.
+- **Resumen y Reflexiones**: Proporciona un análisis conciso y reflexiones finales que ayudan a contextualizar los datos y entender las tendencias observadas.
+
+La combinación de estos elementos asegura que la visualización no solo sea informativa, sino también atractiva y fácil de usar, proporcionando una experiencia enriquecedora para el usuario.
+
+
 
