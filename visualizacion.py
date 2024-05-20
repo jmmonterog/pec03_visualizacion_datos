@@ -187,5 +187,8 @@ def update_slope_chart(selected_name):
     return fig
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    # app.run_server(debug=True)
+    # Define el puerto a utilizar con una variable de entorno o usa 8050 como predeterminado
+    port = int(os.environ.get("PORT", 8050))
+    app.run_server(debug=True, host='0.0.0.0', port=port)
 
