@@ -11,6 +11,12 @@ Esta visualización interactiva analiza la evolución de los nombres más popula
 ### Origen de los Datos
 Los datos utilizados en esta visualización provienen de registros oficiales de nombres de recién nacidos en España para los años 2002 y 2022. Estos datos fueron recolectados y proporcionados por el Instituto Nacional de Estadística (INE) y otras fuentes oficiales de las comunidades autónomas.
 
+![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/1472aac1-8abe-4196-96ec-7d4b755888af)
+
+https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177009&menu=resultados&secc=1254736195498&idp=1254734710990#_tabs-1254736195498
+![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/f6b1467d-6ac3-49b5-ad57-032e8886c0e9)
+
+
 ### Licencia de los Datos
 Los datos están bajo una licencia de uso público, lo que permite su acceso y uso para fines educativos y no comerciales. Es importante consultar la página oficial del INE y las fuentes de datos regionales para obtener detalles específicos sobre las licencias y condiciones de uso.
 
@@ -29,10 +35,27 @@ La visualización fue creada utilizando Dash, una biblioteca de Python para la c
 La visualización creada está estructurada en varias secciones interactivas, cada una enfocada en un aspecto diferente del análisis de nombres:
 
 1. **Introducción**: Proporciona un contexto sobre la importancia de los nombres y el objetivo de la visualización.
-2. **Comparación Nacional**: Incluye gráficos de barras que muestran los 10 nombres más populares en España en 2002 y 2022.
-3. **Análisis Regional**: Presenta gráficos de barras regionales con filtros para seleccionar la comunidad autónoma, género y año. Un dropdown permite explorar cómo varían los nombres entre diferentes regiones.
-4. **Evolución Temporal**: Ofrece un gráfico de pendiente (slope chart) para visualizar la evolución de los nombres a lo largo del tiempo. Un selector permite elegir nombres específicos para un análisis detallado.
+
+   ![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/d0200a15-0b11-41ff-9b5f-06b985a9572f)
+
+2. **Sección 1: Comparación Nacional**: Incluye gráficos de barras que muestran los 10 nombres más populares en España en 2002 y 2022.
+
+   ![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/365b6ec3-5081-499e-b813-0f9648e39fad)
+
+3. **Sección 2: Análisis Regional**: Presenta gráficos de barras regionales con filtros para seleccionar la comunidad autónoma, género y año. Un dropdown permite explorar cómo varían los nombres entre diferentes regiones.
+
+![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/1cfa1a03-162f-4179-93e5-933ddf5af5dd)
+
+   
+4. **Sección 3: Evolución Temporal**: Ofrece un gráfico de pendiente (slope chart) para visualizar la evolución de los nombres a lo largo del tiempo. Un selector permite elegir nombres específicos para un análisis detallado.
+
+![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/26ca149c-215f-4c21-b1d4-5e76d51929e6)
+
+   
 5. **Conclusión**: Resume las tendencias principales y reflexiona sobre los cambios culturales observados.
+
+   ![image](https://github.com/jmmonterog/pec03_visualizacion_datos/assets/103445965/aaa25f13-6a32-499c-9eba-3c33054c766a)
+
 
 ## d) Análisis de los Elementos Visuales Usados
 ### Tipo de Gráficos
